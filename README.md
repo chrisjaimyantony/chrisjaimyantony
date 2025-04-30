@@ -21,7 +21,6 @@ Welcome to my GitHub! I'm a curious and driven learner actively working at the i
 ## Currently Learning
 
 - Advanced **Machine Learning** and **LLM Architectures**
-- Applied **Stable Diffusion**, **Unity**, and **NLP** pipelines
 - **Calculus fundamentals** for AI: implicit differentiation, partial derivatives, and PDEs
 
 ---
