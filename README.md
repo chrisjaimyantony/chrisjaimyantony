@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chris Jaimy Antony</h1>
-<p align="center"><strong>Aspiring Research Scientist | AI & ML Enthusiast | Full-Stack Explorer</strong></p>
+<p align="center"><strong>Aspiring Research Scientist | AI & ML Enthusiast </strong></p>
 
 ---
 
