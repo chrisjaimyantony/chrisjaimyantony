@@ -41,7 +41,6 @@ Welcome to my GitHub! I'm a curious and driven learner actively working at the i
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-Mistral-informational?style=flat" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
