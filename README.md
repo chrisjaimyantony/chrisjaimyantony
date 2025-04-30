@@ -11,15 +11,14 @@ Welcome to my GitHub! I'm a curious and driven learner actively working at the i
 
 ## What I’m Working On
 
-- Building an **LLM-powered task prioritization system** and co-authoring a **research paper** on intelligent task management
+- Building an **LLM-powered task prioritization system** and authoring a **research paper** on intelligent task management
 - Developing a **Code Explainer + Bug Fixer app** using **Mistral** and **CodeBERT**
-- Exploring **religious symbolism in video games** like *Blasphemous* through the lens of theology and interactive media
 
 ---
 
 ## Currently Learning
 
-- Advanced **Machine Learning** and **LLM architectures**
+- Advanced **Machine Learning** and **LLM Architectures**
 - Applied **Stable Diffusion**, **Unity**, and **NLP** pipelines
 - **Calculus fundamentals** for AI: implicit differentiation, partial derivatives, and PDEs
 
