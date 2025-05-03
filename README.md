@@ -49,8 +49,8 @@ Welcome to my GitHub! I'm a curious and driven learner actively working at the i
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Delirious-code&show_icons=true&theme=default&hide_title=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delirious-code&layout=compact&theme=default" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisjaimyantony&show_icons=true&theme=default&hide_title=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjaimyantony&layout=compact&theme=default" width="45%" />
 </p>
 
 
