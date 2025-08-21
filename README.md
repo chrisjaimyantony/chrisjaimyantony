@@ -13,8 +13,7 @@ Welcome to my GitHub! I'm a curious and driven learner actively working at the i
 
 ## What I’m Working On
 
-- Building an **LLM-powered task prioritization system** and authoring a **research paper** on intelligent task management
-- Developing a **Code Explainer + Bug Fixer app** using **Mistral** and **CodeBERT**
+- Building an **LLM Fairness System** to make your LLMs, less racist.
 
 ---
 
@@ -22,12 +21,13 @@ Welcome to my GitHub! I'm a curious and driven learner actively working at the i
 
 - Advanced **Machine Learning** and **LLM Architectures**
 - **Calculus fundamentals** for AI: implicit differentiation, partial derivatives, and PDEs
+- **Linear Algebra** for understanding how Vector Spaces work.
 
 ---
 
 ## Communities & Contributions
 
-- Student Leader at the **Centre for AI**, Christ University  
+- Research and Content Head at the **Centre for AI**, Christ University  
 - Member of the **AI Guild** and **Eulim Science Club**  
 - Tech & Outreach Contributor at the **Department of Social Action**
 
