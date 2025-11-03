@@ -54,6 +54,8 @@ Currently blending ML, a bit of design, and lots of experiments to turn ideas in
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20XML-3DDC84?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-Mistral-informational?style=flat" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
