@@ -1,39 +1,53 @@
 <img src="banner.png" alt="GitHub banner" width="100%" />
 
-<h1 align="center">Hi, I'm Chris Jaimy Antony</h1>
-<p align="center"><strong>Aspiring Research Scientist | AI & ML Enthusiast </strong></p>
+<h1 align="center">Hey, I'm Chris Jaimy Antony 👋</h1>
+<p align="center">Building smart things with AI (plus a healthy amount of debugging) · LLM Explorer · Researcher-in-Progress · Intel Unnati Trainer</p>
 
 ---
 
-## About Me
+## About me ✨
 
-Welcome to my GitHub! I'm a curious and driven learner actively working at the intersection of artificial intelligence, creative problem-solving, and research. I'm especially passionate about making systems that think with you—not just for you.
-
----
-
-## What I’m Working On
-
-- Building an **LLM Fairness System** to make your LLMs, less racist.
+Curious human shipping small, useful AI things — systems that think with you, not just for you.  
+Currently blending ML, a bit of design, and lots of experiments to turn ideas into working demos.
 
 ---
 
-## Currently Learning
+## Right now 🧪
 
-- Advanced **Machine Learning** and **LLM Architectures**
-- **Calculus fundamentals** for AI: implicit differentiation, partial derivatives, and PDEs
-- **Linear Algebra** for understanding how Vector Spaces work.
-
----
-
-## Communities & Contributions
-
-- Research and Content Head at the **Centre for AI**, Christ University  
-- Member of the **AI Guild** and **Eulim Science Club**  
-- Tech & Outreach Contributor at the **Department of Social Action**
+- LLM Fairness System — nudging models toward helpful, less-biased outputs with dataset curation, prompt scaffolds, and evaluator loops.
+- ComicCrafter — turn prompts into comic-style panels and stories with style presets and local-first workflows.
+- MDR risk tracking — privacy-minded staff activity tracking to reduce spread of multidrug-resistant infections in real-world settings.
 
 ---
 
-## Tech Stack
+## Learning loop 📚
+
+- Advanced ML & LLM architectures (behavior, guardrails, evals)
+- Calculus for AI intuition (implicit differentiation, partials, PDE vibes)
+- Linear algebra fundamentals (projections, bases, transforms)
+
+---
+
+## Communities & roles 🤝
+
+- Student Leader — AI Guild, Christ University (Delhi NCR)
+- Intel Unnati — AI & ML Trainer
+- Member — Department of Social Action
+- Member — Eulim Science Club (Tech)
+- Member — SWO Technical Team
+- Member — TechGenX (Tech)
+
+---
+
+## Projects 🚀
+
+- ComicCrafter — AI-powered comic creation from prompt to multi-panel stories
+- Task_Prioritization_Using_Contextual_Signals — documented research exploration
+- India Renewable Energy Dataset — state-wise capacity data (Kaggle)
+
+---
+
+## Toolbox 🧰
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -46,23 +60,20 @@ Welcome to my GitHub! I'm a curious and driven learner actively working at the i
 
 ---
 
-## GitHub Stats
+## GitHub stats 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chrisjaimyantony&show_icons=true&theme=default&hide_title=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjaimyantony&layout=compact&theme=default" width="45%" />
 </p>
 
-
 ---
 
-## Let’s Connect
+## Let’s connect 🌐
 
-- [LinkedIn](https://www.linkedin.com/in/chris-jaimy-antony)
-- Open to research collaborations, projects, and deep-dive discussions
+- LinkedIn: https://www.linkedin.com/in/chris-jaimy-antony  
+- Open to research collabs, scrappy prototypes, and deep dives into model behavior
 
 ---
 
 > "Code is art. Research is discovery. And learning is a lifelong adventure."
-
-Thanks for visiting — feel free to explore my work!
