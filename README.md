@@ -1,83 +1,58 @@
-<img src="banner.png" alt="GitHub banner" width="100%" />
+### Chris Jaimy Antony
 
-<h1 align="center">Hey, I'm Chris Jaimy Antony 👋</h1>
-<p align="center">Building smart things with AI (plus a healthy amount of debugging) · LLM Explorer · Researcher-in-Progress · Intel Unnati Trainer</p>
-
----
-
-## About me ✨
-
-Curious human shipping small, useful AI things — systems that think with you, not just for you.  
-Currently blending ML, a bit of design, and lots of experiments to turn ideas into working demos.
+B.Sc. AI & Data Science · Christ University, Delhi NCR  
+Research & Content Head, Centre for Artificial Intelligence
 
 ---
 
-## Right now 🧪
+Second-year student researching counterfactual fairness in large language models — specifically, how model outputs shift when protected attributes like race, gender, or socioeconomic background are causally altered in prompts. Working with structural causal models to surface and measure bias in ways that go beyond surface-level audits.
 
-- LLM Fairness System — nudging models toward helpful, less-biased outputs with dataset curation, prompt scaffolds, and evaluator loops.
-- ComicCrafter — turn prompts into comic-style panels and stories with style presets and local-first workflows.
-- MDR risk tracking — privacy-minded staff activity tracking to reduce spread of multidrug-resistant infections in real-world settings.
+Alongside that, building an ESP32-based IoT system for real-time MDR disease risk tracking, and a low-cost multimodal edge device (S.E.N.T.R.Y.) for early respiratory health screening.
 
----
+Certified ML Trainer under Intel's Unnati Program. Have run sessions for students and faculty on applied machine learning, prompt engineering, and responsible AI.
 
-## Learning loop 📚
-
-- Advanced ML & LLM architectures (behavior, guardrails, evals)
-- Calculus for AI intuition (implicit differentiation, partials, PDE vibes)
-- Linear algebra fundamentals (projections, bases, transforms)
+Open to research internships and collaborations.
 
 ---
 
-## Communities & roles 🤝
+**Current research**
 
-- Student Leader — AI Guild, Christ University (Delhi NCR)
-- Intel Unnati — AI & ML Trainer
-- Member — Department of Social Action
-- Member — Eulim Science Club (Tech)
-- Member — SWO Technical Team
-- Member — TechGenX (Tech)
+- Counterfactual Fairness in LLMs — structural causal modeling, bias evaluation, counterfactual prompting
+- ESP32 MDR Disease Risk Tracker — IoT epidemiology, edge ML, real-time risk monitoring
+- S.E.N.T.R.Y. — multimodal edge inference for respiratory health screening
 
 ---
 
-## Projects 🚀
+**Writing**
 
-- ComicCrafter — AI-powered comic creation from prompt to multi-panel stories
-- Task_Prioritization_Using_Contextual_Signals — documented research exploration
-- India Renewable Energy Dataset — state-wise capacity data (Kaggle)
+I publish regularly on LLM reasoning, causal fairness, and AI in science on [LinkedIn](https://www.linkedin.com/in/chris-jaimy-antony). Recent topics include MCTS for LLM self-improvement, HyperTree planning, ReAct limitations, and why bias in language models runs deeper than training data.
 
 ---
 
-## Toolbox 🧰
+**Stack**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20XML-3DDC84?style=flat&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-Mistral-informational?style=flat" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-informational?style=flat)
+![ESP32](https://img.shields.io/badge/ESP32-IoT-informational?style=flat)
 
 ---
 
-## GitHub stats 📊
+**Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisjaimyantony&show_icons=true&theme=default&hide_title=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjaimyantony&layout=compact&theme=default" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=chrisjaimyantony&theme=github-dark-dimmed&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisjaimyantony&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-## Let’s connect 🌐
-
-- LinkedIn: https://www.linkedin.com/in/chris-jaimy-antony  
-- Open to research collabs, scrappy prototypes, and deep dives into model behavior
-
----
-
-> "Code is art. Research is discovery. And learning is a lifelong adventure."
+[LinkedIn](https://www.linkedin.com/in/chris-jaimy-antony) · [Email](mailto:chrisjaimyantony@gmail.com) · New Delhi, India
