@@ -1,11 +1,11 @@
 ### Chris Jaimy Antony
 
 B.Sc. AI & Data Science · Christ University, Delhi NCR  
-Research & Content Head, Centre for Artificial Intelligence
+Overall Head, Centre for Artificial Intelligence
 
 ---
 
-Second-year student researching counterfactual fairness in large language models — specifically, how model outputs shift when protected attributes like race, gender, or socioeconomic background are causally altered in prompts. Working with structural causal models to surface and measure bias in ways that go beyond surface-level audits.
+Third-year student researching counterfactual fairness in large language models — specifically, how model outputs shift when protected attributes like race, gender, or socioeconomic background are causally altered in prompts. Working with structural causal models to surface and measure bias in ways that go beyond surface-level audits.
 
 Alongside that, building an ESP32-based IoT system for real-time MDR disease risk tracking, and a low-cost multimodal edge device (S.E.N.T.R.Y.) for early respiratory health screening.
 
